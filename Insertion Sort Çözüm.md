@@ -30,7 +30,7 @@ Best Case: [2,6,16,18,22,27]
 
 Dizinin sıralanmış hali [2,6,16,18,22,27] şeklindedir. Bu durumda 18 sayısı ortada yer alır ve avarage case olarak adlandırılır.
 
-## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını
+## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı
 
 [2|,3,5,8,7,9,4,15,6] n-1
 
